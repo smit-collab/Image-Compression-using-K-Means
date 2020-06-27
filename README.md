@@ -2,7 +2,7 @@
 
 ### Project Description:
 
-In this project, I have demonstrated compressing an image using the K means algorithm. It is an unsupervised algorithm that is used to sperate unlabelled data. The interactive control allows us to select an image and then set the k value using a slider.
+In this project, I have demonstrated compressing an image using the K means algorithm. It is an unsupervised algorithm that is used to sperate unlabelled data. The interactive control allows us to select an image and then set the k value using a slider. This project was a part of the course that I took on Coursera.
 
 
 ### Software and Libraries:
@@ -39,9 +39,17 @@ Below is the sample compressed image compared with an original image where K val
 2. The default k value set in the program is 16 clusters or 16 colors. k means unsupervised algorithm is used to sperate unlabelled data like image colors into distinct groups.    
 3. Compression performed will be lossy, so fine details in an image are lost. A higher value of k can be set to minimize the loss.
 
-###Alternative Approaches
+### Alternative Approaches
 1. Reducing frequency of image
 2. Reducing intensity ranges of pixels.
+
+## References
+    Wikipedia
+    Datacamp
+    Udemy
+    GeeksforGeeks
+    coursera
+    A lot of googling to figure out how to do stuff.    
 
 
     
