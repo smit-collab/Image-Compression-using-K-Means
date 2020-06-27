@@ -43,7 +43,7 @@ Below is the sample compressed image compared with an original image where K val
 1. Reducing frequency of image
 2. Reducing intensity ranges of pixels.
 
-## References
+### References
     Wikipedia
     Datacamp
     Udemy
