@@ -2,7 +2,7 @@
 
 ### Project Description:
 
-In this project, I have demonstrated compressing an image using the K means algorithm. It is an unsupervised algorithm that is used to sperate unlabelled data. The interactive control allows us to select an image and then set the k value using a slider. This project was a part of the course that I took on Coursera.
+In this project, I have demonstrated compressing an image using the K means algorithm. It is an unsupervised algorithm that is used to sperate unlabelled data. The interactive control allows user to select an image and then set the k value using a slider. This project was a part of the course that I took on Coursera.
 
 
 ### Software and Libraries:
